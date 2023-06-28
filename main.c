@@ -14,7 +14,7 @@ int main (){
     printf("Ingrese el nombre del equipo\n");
     scanf("%s",nombre);
     finaliza=strcmp(termina, nombre);
-    if (finaliza=0)
+    if (finaliza==0)
         numequipo = numequipo + 1;
         guardarNombresArchivo(equipos, nombre);
     }
