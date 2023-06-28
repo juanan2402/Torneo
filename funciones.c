@@ -162,3 +162,7 @@ void ingresarRegistro(char nombreArchivo[],char id[], char nombre[], float edad,
     }
 
 }
+
+void Aleatorio(){
+    
+}
