@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include "funciones.h"
 
 int crearArchivo(char nombreArchivo[])
 {
@@ -161,8 +160,4 @@ void ingresarRegistro(char nombreArchivo[],char id[], char nombre[], float edad,
          fclose(archivo);
     }
 
-}
-
-void Aleatorio(){
-    
 }
