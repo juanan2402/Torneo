@@ -1,5 +1,9 @@
 #include<stdio.h>
-#include "funciones.h"
+#include "fTorneo.h"
+
+
+char equipos[100]={"equipos.txt"};
+crearArchivo(equipos);
 
 
 
