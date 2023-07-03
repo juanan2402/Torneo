@@ -1,3 +1,4 @@
 #include "Ingreso.c"
 
-void IngresarEquipos();
+int IngresarEquipos();
+void vectorNombres(char nombres[][100], int numEquipos);
